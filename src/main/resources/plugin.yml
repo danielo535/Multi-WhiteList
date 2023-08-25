@@ -1,0 +1,10 @@
+name: Multi-WhiteList
+version: '${project.version}'
+main: pl.danielo535.multiwhitelist.MultiWhiteList
+api-version: '1.13'
+authors: ['danielo535']
+
+commands:
+  whitelist:
+    aliases:
+      - multiwhitelist
