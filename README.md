@@ -29,7 +29,7 @@ The **Multi-WhiteList Plugin** is a tool designed to simplify the management of 
 
 ## Installation
 
-1. Download the latest version of the plugin from [releases](link_to_releases).
+1. Download the latest version of the plugin from [releases](https://github.com/danielo535/Multi-WhiteList/releases).
 2. Place the plugin file into the `plugins` folder within your Minecraft server directory.
 3. Start or restart the server.
 
