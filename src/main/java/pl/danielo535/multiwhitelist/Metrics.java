@@ -1,4 +1,4 @@
-package pl.menel.pvpswordlobby;
+package pl.danielo535.multiwhitelist;
 
 /*
  * This Metrics class was auto-generated and can be copied into your project if you are
