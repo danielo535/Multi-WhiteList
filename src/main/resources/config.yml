@@ -15,7 +15,7 @@ kick:
 messages:
   enable: "&7Whitelist has been &aenabled"   # Message indicating whitelist has been enabled
   disable: "&7Whitelist has been &cdisabled"  # Message indicating whitelist has been disabled
-  list: '&7Whitelisted contain &8(%size%) &7players: &f%players%'  # List of whitelisted players
+  list: "&7Whitelisted contain &8(%size%) &7players: &f%players%"  # List of whitelisted players
   add: "&7Player &a%player% &7added to the whitelist!"   # Message indicating player added to whitelist
   error-add: "&7Player &a%player% &7is already whitelisted on this server"   # Error message for adding an already whitelisted player
   remove: "&7Player &c%player% &7removed from the whitelist!"  # Message indicating player removed from whitelist
@@ -23,7 +23,7 @@ messages:
   status: "&7Whitelist is %status%"   # Whitelist status message (enabled/disabled)
   active: "&7The whitelist is already %status%"   # Message when whitelist is already in the specified state
   custom-status:
-    enable: '&aenabled'   # Description for enabled whitelist state
+    enable: "&aenabled"   # Description for enabled whitelist state
     disable: "&cdisabled"   # Description for disabled whitelist state
   reload: "&aPlugin has reloaded"   # Message indicating plugin reload
   usage: "&7Usage:&f /whitelist <on | off | add | list | reload | remove> [player]"   # Command usage description for /whitelist
