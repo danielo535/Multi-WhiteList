@@ -71,3 +71,7 @@ In the `config.yml` file, you can customize various plugin settings, such as mes
 
 Written by [danielo535](https://github.com/danielo535).
 
+## Links
+* [SpigotMC](https://www.spigotmc.org/resources/multi-whitelist.112275/)
+* [bStats](https://bstats.org/plugin/bukkit/Multi-WhiteList/19649)
+
