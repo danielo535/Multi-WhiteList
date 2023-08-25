@@ -15,6 +15,7 @@ public final class MultiWhiteList extends JavaPlugin {
     WhiteListManager whiteListManager = new WhiteListManager(mysqlManager);
     @Override
     public void onEnable() {
+        new Metrics(this,19649);
         getServer().getPluginManager().registerEvents(new PlayerJoinListener(whiteListManager, mysqlManager), this);
         getCommand("whitelist").setExecutor(new WhiteListCommand(whiteListManager,mysqlManager));
         getCommand("whitelist").setTabCompleter(new TabCompleteCommand());
